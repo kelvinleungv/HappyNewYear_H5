@@ -1,0 +1,10 @@
+$radius: 8px;
+$bgColor: blue;
+$color: white;
+
+.my-button {
+  border-radius: $radius;
+  padding: 8px 16px;
+  background-color: $bgColor;
+  color: $color;
+}
