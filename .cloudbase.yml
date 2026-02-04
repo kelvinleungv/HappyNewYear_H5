@@ -1,7 +1,7 @@
 envId:   # 可留空，部署时会自动填充
 
 static:
-  - prefix: /HappyNewYearH5
+  - prefix: /
     dir: dist
     index: index.html
     fallback: index.html  # 👈 关键！开启 SPA 模式
